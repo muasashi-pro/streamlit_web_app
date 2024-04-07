@@ -8,3 +8,5 @@ st.title('ムサシアプリ')
 '''
 # 
 st.code(code, language='python')
+
+print('feature/bの追加')
