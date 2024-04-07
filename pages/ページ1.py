@@ -10,3 +10,4 @@ st.title('ムサシアプリ')
 st.code(code, language='python')
 
 print('feature/aで修正しました')
+print('feature/bの追加')
